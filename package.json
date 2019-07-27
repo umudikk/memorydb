@@ -20,6 +20,7 @@
     "nodemon": "^1.17.5"
   },
   "dependencies": {
+    "fs": "0.0.1-security",
     "uuid": "^3.3.2"
   }
 }
