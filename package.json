@@ -1,7 +1,7 @@
 {
   "name": "memorydb",
   "version": "1.0.0",
-  "description": "",
+  "description": "basic key value list",
   "main": "lib/index.js",
   "scripts": {
     "build": "babel lib -d dist",
@@ -9,7 +9,7 @@
     "serve": "npm run build && node dist/index.js",
     "test": "npm run build && mocha --require @babel/register"
   },
-  "author": "James Kyle <me@thejameskyle.com>",
+  "author": "",
   "license": "ISC",
   "devDependencies": {
     "@babel/cli": "^7.2.3",
@@ -18,5 +18,8 @@
     "@babel/register": "^7.4.0",
     "mocha": "^5.2.0",
     "nodemon": "^1.17.5"
+  },
+  "dependencies": {
+    "uuid": "^3.3.2"
   }
 }
