@@ -59,13 +59,14 @@ OR
         }
     ]
 
-##Object properties \n
-
+##Object properties
+// your object may contains 2 properties but not its optional
     {
+        name:'Seyit',
         delay:5000 // Wait 5000ms and add
     }
-
     {
+        key:'adsad',
         destroy:5000 // Wait 5000ms and delete this object
     }
     {
