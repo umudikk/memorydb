@@ -59,6 +59,19 @@ returns
     }
 ]
 
+##Bbject properties
+    {
+        delay:5000 // Wait 5000ms and add()
+    }
+
+    {
+        destroy:5000 // Wait 5000ms and delete this object
+    }
+    {
+        delay:2000  // Object life-time = 3000ms
+        destroy:5000
+    }
+
 
 ##filter object example
 
