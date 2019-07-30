@@ -59,9 +59,10 @@ OR
         }
     ]
 
-##Object properties
+##Object properties \n
+
     {
-        delay:5000 // Wait 5000ms and add()
+        delay:5000 // Wait 5000ms and add
     }
 
     {
