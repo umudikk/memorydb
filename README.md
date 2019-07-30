@@ -61,7 +61,7 @@ OR
 
 ##Object properties
 
-    // your object may contains 2 properties but not its optional
+    // your object may contains 2 properties but its optional
     {
         name:'Seyit',
         delay:5000 // Wait 5000ms and add
