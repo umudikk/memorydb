@@ -59,7 +59,7 @@ returns
     }
 ]
 
-##Bbject properties
+##Object properties
     {
         delay:5000 // Wait 5000ms and add()
     }
