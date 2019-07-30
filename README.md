@@ -78,15 +78,12 @@ returns
 {
     key:'<10' //IMPORTANT-> must be number  '>string' -> err
 }
-
 {
     key:'>10' 
 }
-
 {
     key:'!10' //int or string it doesnt matter
 }
-
 {
     key:'!foo' 
 }
