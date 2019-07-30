@@ -30,7 +30,7 @@
     let filter={
         age:23
     }
-    memorydb.add(filter) //We deleted person1
+    memorydb.delete(filter) //We deleted person1
 
 
 OR
@@ -39,7 +39,7 @@ OR
         name:'Umut'
         age:23
     }
-    memorydb.add(filter) //We deleted person1
+    memorydb.delete(filter) //We deleted person1
 
 
 #find(filter_object)
