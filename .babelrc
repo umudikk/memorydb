@@ -1,6 +1,9 @@
 {
   "presets": ["@babel/preset-env"],
   
-  "plugins": ["syntax-class-constructor-call"]
+  "plugins": 
+     ["syntax-class-constructor-call",
+      "@babel/plugin-proposal-export-default-from"]
+    
   
 }
